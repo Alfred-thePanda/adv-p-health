@@ -1,6 +1,7 @@
 # Advanced Project - Health Classifier
 
-University project - Carmen Werrlein, Adetola Oluwatayo, Oluwaseyifunmi Alfred Olaniyan, Ben Puhalski
+University project - Carmen Werrlein, Adetola Oluwatayo, Oluwaseyifunmi Alfred Olaniyan, Ben Puhalski.
+
 A web app questionnaire powered by ML to predict whether or not the user has a specific disesase. Currently predicts for diabetes and heart disease. 
 ## Resources
 
